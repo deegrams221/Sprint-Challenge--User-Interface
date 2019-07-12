@@ -76,15 +76,23 @@ p {
     justify-content: space-between;
     align-content: center; 
     align-items: baseline;
-    /* width: 80%; */
-    margin: 20px 0 50px;
-    background-color: aquamarine;
+    width: 800px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    /* background-color: aquamarine; */
  }
  
  .nav-top a{
      color: black;
      text-decoration: none;
-     background-color: pink;
+     /* background-color: pink; */
+ }
+
+ .top-img{
+     display: flex;
+     width: 800px;
+     margin: 0 auto;
+     margin-bottom: 50px;
  }
 
 
