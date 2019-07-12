@@ -255,15 +255,15 @@ footer nav a {
 /* buttons */
 button{
     display: flex;
-    vertical-align: middle;
     text-align: center;
     margin: 20px 80px; 
     background-color: white;
     border-radius: 15px;
     border: 2px solid black;
-    padding: 20px; 
+    padding: 10px 10px 30px 25px;  
     width: 150px;
     height: 20px;
+    align-items: center;
 }
 
 
