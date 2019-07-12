@@ -80,6 +80,7 @@ p {
     width: 800px;
     margin: 0 auto;
     margin-bottom: 50px;
+    margin-top: 20px;
     /* background-color: aquamarine; */
  }
  
@@ -139,6 +140,8 @@ p {
     justify-content: center;
 }
 
+
+/* boxes */
 .middle-content .boxes .box:first-child{
     background-color: teal;
 }
