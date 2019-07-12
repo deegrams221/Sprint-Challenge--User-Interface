@@ -36,7 +36,6 @@ Edit this document to include your answers after each question. Make sure to lea
 
 	Semantic HTML gives the code meaning and it makes the code easier to read. For example, an h1 heading gives that element meaning in that it is the most important heading of that section.   
 
-
 2. Name two big differences between ```display: block;``` and ```display: inline;```.  
 
     1. ```display: block;``` elements always start on a new line, while ```display: inline;``` elements start on the same line (inline).  
